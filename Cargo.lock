@@ -1082,7 +1082,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "wynd-only"
+name = "wynd-minimal-demo"
 version = "0.1.0"
 dependencies = [
  "tokio",
